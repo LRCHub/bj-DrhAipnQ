@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ラブストーリー",
+  "base_artist": "PLUE",
+  "createdAt": "2026-02-14T09:27:00.076632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラブストーリー",
+      "artist": "the shes gone",
+      "has_synced": true,
+      "path": "select/01_ラブストーリー_the_shes_gone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぐるぐる・ラブストーリー",
+      "artist": "ときのそら",
+      "has_synced": true,
+      "path": "select/02_ぐるぐる・ラブストーリー_ときのそら.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラブストーリー - lovestory",
+      "artist": "the shes gone",
+      "has_synced": true,
+      "path": "select/03_ラブストーリー_-_lovestory_the_shes_gone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラブストーリー",
+      "artist": "マルシィ",
+      "has_synced": true,
+      "path": "select/04_ラブストーリー_マルシィ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マーメイド ラブストーリー",
+      "artist": "誘宵美九(CV.茅原実里)",
+      "has_synced": false,
+      "path": "select/05_マーメイド_ラブストーリー_誘宵美九(CV.茅原実里).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マーメイド ラブストーリー - Full Size",
+      "artist": "誘宵美九 (CV: 茅原実里)",
+      "has_synced": false,
+      "path": "select/06_マーメイド_ラブストーリー_-_Full_Size_誘宵美九_(CV__茅原実里).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マーメイド ラブストーリー(Instrumental)",
+      "artist": "誘宵美九(CV:茅原実里)",
+      "has_synced": false,
+      "path": "select/07_マーメイド_ラブストーリー(Instrumental)_誘宵美九(CV_茅原実里).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マーメイド ラブストーリー",
+      "artist": "誘宵美九(CV:茅原実里)",
+      "has_synced": false,
+      "path": "select/08_マーメイド_ラブストーリー_誘宵美九(CV_茅原実里).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マーメイド ラブストーリー(Full Size)",
+      "artist": "誘宵美九",
+      "has_synced": false,
+      "path": "select/09_マーメイド_ラブストーリー(Full_Size)_誘宵美九.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブストーリー",
+      "artist": "PLUE",
+      "has_synced": false,
+      "path": "select/pl_01_ラブストーリー_PLUE.txt"
+    }
+  ]
+}
